@@ -1,0 +1,15 @@
+/Users/user/dio-estacionamento-csharp/bin/Debug/net9.0/Estacionamento
+/Users/user/dio-estacionamento-csharp/bin/Debug/net9.0/Estacionamento.deps.json
+/Users/user/dio-estacionamento-csharp/bin/Debug/net9.0/Estacionamento.runtimeconfig.json
+/Users/user/dio-estacionamento-csharp/bin/Debug/net9.0/Estacionamento.dll
+/Users/user/dio-estacionamento-csharp/bin/Debug/net9.0/Estacionamento.pdb
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.AssemblyInfoInputs.cache
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.AssemblyInfo.cs
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.csproj.CoreCompileInputs.cache
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.sourcelink.json
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.dll
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/refint/Estacionamento.dll
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.pdb
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/Estacionamento.genruntimeconfig.cache
+/Users/user/dio-estacionamento-csharp/obj/Debug/net9.0/ref/Estacionamento.dll
